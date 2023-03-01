@@ -26,21 +26,22 @@ Html вывод файлов находится в папке data
 
 Качество ридов хорошей, подрезание не требуется
 
-##Таблица со статистикой
+## Таблица со статистикой
 ![4](https://github.com/Lenassskuh/hse23_hw2_chip/blob/main/data/table.png)
 
-##Диаграммы Эйлера-Венна
+## Диаграммы Эйлера-Венна
 
-###Первая реплика с ENCODE и ENCODE с первой репликой
+### Первая реплика с ENCODE и ENCODE с первой репликой
 ![5](https://github.com/Lenassskuh/hse23_hw2_chip/blob/main/data/vien1.png)
 ![6](https://github.com/Lenassskuh/hse23_hw2_chip/blob/main/data/vien2.png)
 
-###Вторая реплика и ENCODE и ENCODE со второй репликой
+### Вторая реплика и ENCODE и ENCODE со второй репликой
 ![7](https://github.com/Lenassskuh/hse23_hw2_chip/blob/main/data/vien3.png)
 ![8](https://github.com/Lenassskuh/hse23_hw2_chip/blob/main/data/vien4.png)
 
 Вывод: Заметим, что пересечение не толькое большое, так как мы делали выравнивание всего по одной хромосоме. Также стоит отметить: так как пересечение ENCODE c пиками реплик и реплик с ENCODE - это разные вещи, то в первой и второй двойке диаграмм в пересечении разные значенияю
 
-##Бонус
+## Бонус
 ![9](https://github.com/Lenassskuh/hse23_hw2_chip/blob/main/data/result.png)
 ![10](https://github.com/Lenassskuh/hse23_hw2_chip/blob/main/data/result2.png)
+Вывод: можем заметить, что смещений почти нет, результаты похожи на расположение гистоновой клетки 
