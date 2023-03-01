@@ -6,7 +6,7 @@
 Для исследования были выбраны клеточная линия H1 и гистоновая метка H3K4me3
 
 Ссылки на html вывод файлов FastQC:
-1. ![ENCFF038JDF](https://github.com/Lenassskuh/hse23_hw2_chip/blob/main/data/ENCFF038JDF_fastqc.html)
+1. ![ENCFF038JDF](file:///C:/Users/%D0%9E%D0%BB%D0%B5%D0%B3/Downloads/ENCFF038JDF_fastqc.html)
 2. ![ENCFF051RXP](https://github.com/Lenassskuh/hse23_hw2_chip/blob/main/data/ENCFF051RXP_fastqc.html)
 3. ![ENCFF723SKE](https://github.com/Lenassskuh/hse23_hw2_chip/blob/main/data/ENCFF723SKE_fastqc.html)
 
