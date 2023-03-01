@@ -44,4 +44,4 @@ Html вывод файлов находится в папке data
 ## Бонус
 ![9](https://github.com/Lenassskuh/hse23_hw2_chip/blob/main/data/result.png)
 ![10](https://github.com/Lenassskuh/hse23_hw2_chip/blob/main/data/result2.png)
-Вывод: можем заметить, что смещений почти нет, результаты похожи на расположение гистоновой клетки 
+Вывод: можем заметить, что смещений почти нет, результаты похожи на расположение гистоновой метки
